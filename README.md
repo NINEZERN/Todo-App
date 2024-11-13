@@ -25,7 +25,7 @@ A simple, aesthetically pleasing to-do list application built with React. This p
 
 Start the application with:
 ```bash
-npm start
+npm run dev
 ```
 
 The app will run locally on `http://localhost:3000`.
